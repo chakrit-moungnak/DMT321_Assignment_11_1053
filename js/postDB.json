@@ -1,0 +1,14 @@
+{
+  "post1": {
+    "user": "mario",
+    "message": "สวัสดีวันฮาโลวีน"
+  },
+  "post2": {
+    "user": "luigi",
+    "message": "hello world"
+  },
+  "post3": {
+    "user": "mario",
+    "message": "เย้"
+  }
+}
